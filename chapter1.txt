@@ -1,1 +1,3 @@
 hello world this is chapter 1
+i made some changes in chapter 1
+added a few more things
